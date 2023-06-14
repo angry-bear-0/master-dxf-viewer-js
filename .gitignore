@@ -1,0 +1,7 @@
+node_modules/
+test-data/
+/build/
+.history/
+*.tgz
+*.orig
+scratch/
